@@ -7,6 +7,6 @@ This implementation of Capsule Network is based on the paper: Dynamic Routing Be
 
 Dataset : Labeled Faces in the Wild(http://vis-www.cs.umass.edu/lfw/index.html)
 
-## requirements
+## Requirements
 pip install -r requirements.txt
 
